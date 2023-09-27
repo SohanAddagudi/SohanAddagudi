@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/SohanAddagudi/static/css/main.56f3c6da.css",
-    "main.js": "/SohanAddagudi/static/js/main.b6ef9e59.js",
-    "static/js/787.676fbc64.chunk.js": "/SohanAddagudi/static/js/787.676fbc64.chunk.js",
-    "static/media/SCR-20230828-shwl.png": "/SohanAddagudi/static/media/SCR-20230828-shwl.edaf799e13b17f059d8a.png",
-    "static/media/IMG_2326.png": "/SohanAddagudi/static/media/IMG_2326.86cbc446ef0e2c5426b7.png",
-    "static/media/poster.png": "/SohanAddagudi/static/media/poster.a25344407940d50be591.png",
-    "static/media/RecAmounts.png": "/SohanAddagudi/static/media/RecAmounts.54e302916038cb29084d.png",
-    "static/media/networkarch.png": "/SohanAddagudi/static/media/networkarch.2d5b78e805fe425b4d7e.png",
-    "static/media/emoji.png": "/SohanAddagudi/static/media/emoji.a3157d423a4325562fed.png",
-    "static/media/Machine_Learning_Optimization_Model_to_Predict_Fantasy_Basketball_Teams.pdf": "/SohanAddagudi/static/media/Machine_Learning_Optimization_Model_to_Predict_Fantasy_Basketball_Teams.21a427591e42befaf1fe.pdf",
-    "static/media/carboncalc.png": "/SohanAddagudi/static/media/carboncalc.abb1bb097069b1144930.png",
-    "static/media/carbonchat.png": "/SohanAddagudi/static/media/carbonchat.bbe5e0d7f75ad1672806.png",
-    "static/media/confusion matrix.png": "/SohanAddagudi/static/media/confusion matrix.c3eb850efe2dc7d074c9.png",
-    "static/media/latent_space.png": "/SohanAddagudi/static/media/latent_space.e82c007e049d0796ca14.png",
-    "static/media/logo.svg": "/SohanAddagudi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SohanAddagudi/index.html",
-    "main.56f3c6da.css.map": "/SohanAddagudi/static/css/main.56f3c6da.css.map",
-    "main.b6ef9e59.js.map": "/SohanAddagudi/static/js/main.b6ef9e59.js.map",
-    "787.676fbc64.chunk.js.map": "/SohanAddagudi/static/js/787.676fbc64.chunk.js.map"
+    "main.css": "/static/css/main.56f3c6da.css",
+    "main.js": "/static/js/main.ea03c9fd.js",
+    "static/js/787.676fbc64.chunk.js": "/static/js/787.676fbc64.chunk.js",
+    "static/media/SCR-20230828-shwl.png": "/static/media/SCR-20230828-shwl.edaf799e13b17f059d8a.png",
+    "static/media/IMG_2326.png": "/static/media/IMG_2326.86cbc446ef0e2c5426b7.png",
+    "static/media/poster.png": "/static/media/poster.a25344407940d50be591.png",
+    "static/media/RecAmounts.png": "/static/media/RecAmounts.54e302916038cb29084d.png",
+    "static/media/networkarch.png": "/static/media/networkarch.2d5b78e805fe425b4d7e.png",
+    "static/media/emoji.png": "/static/media/emoji.a3157d423a4325562fed.png",
+    "static/media/Machine_Learning_Optimization_Model_to_Predict_Fantasy_Basketball_Teams.pdf": "/static/media/Machine_Learning_Optimization_Model_to_Predict_Fantasy_Basketball_Teams.21a427591e42befaf1fe.pdf",
+    "static/media/carboncalc.png": "/static/media/carboncalc.abb1bb097069b1144930.png",
+    "static/media/carbonchat.png": "/static/media/carbonchat.bbe5e0d7f75ad1672806.png",
+    "static/media/confusion matrix.png": "/static/media/confusion matrix.c3eb850efe2dc7d074c9.png",
+    "static/media/latent_space.png": "/static/media/latent_space.e82c007e049d0796ca14.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.56f3c6da.css.map": "/static/css/main.56f3c6da.css.map",
+    "main.ea03c9fd.js.map": "/static/js/main.ea03c9fd.js.map",
+    "787.676fbc64.chunk.js.map": "/static/js/787.676fbc64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56f3c6da.css",
-    "static/js/main.b6ef9e59.js"
+    "static/js/main.ea03c9fd.js"
   ]
 }
