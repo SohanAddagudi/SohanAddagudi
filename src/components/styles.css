@@ -1,0 +1,46 @@
+body {
+  position: relative;
+  min-height: 100vh; /* Use min-height instead of height for better responsiveness */
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+}
+
+/* Adjust padding and font-size for smaller screens */
+@media (max-width: 768px) {
+  body {
+    font-size: 12px;
+  }
+
+  .swiper {
+    padding-top: 5px;
+    padding-bottom: 30px;
+  }
+
+  .swiper-slide {
+    width: 100%; /* Use full width for smaller screens */
+    height: auto; /* Allow content to dictate the height */
+    padding: 20px; /* Reduce padding */
+    box-sizing: border-box; /* Ensure padding is included in the total width */
+  }
+}
+
+/* Larger screens (optional) */
+@media (min-width: 1200px) {
+  .swiper {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+  
+    width: 450px;
+    height: auto;
+    padding: 30px;
+    overflow: hidden;
+  }
+}
