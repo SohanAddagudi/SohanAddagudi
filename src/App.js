@@ -14,7 +14,7 @@ import Emoji from './components/emoji';
 function App() {
   return (
       <Routes>
-        <Route path="/" element={<Home/>} />
+        <Route path="/SohanAddagudi" element={<Home/>} />
         <Route path="/jobreu" element={<Reu/>} />
         <Route path="/projnba" element={<Nba/>} />
         <Route path="/projcarbon" element={<Carbon/>} />

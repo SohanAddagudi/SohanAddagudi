@@ -129,7 +129,7 @@ const IconContainer = styled.div`
 const Navbar = () => {
   return (
     <NavbarContainer>
-      <a href="/">
+      <a href="/SohanAddagudi">
       <Logo src="https://media.licdn.com/dms/image/D5603AQGU2gV-3G9Jpg/profile-displayphoto-shrink_800_800/0/1680549102661?e=2147483647&v=beta&t=jTmSaag4bsI3y1Vq1oev4BPyMx6aGxMzXg2XaMTRd4I" alt="Logo" />
       </a>
       
@@ -147,10 +147,10 @@ const Navbar = () => {
         </a>
       </IconContainer>
       <NavbarContent>
-        <li><a href="/#education">Education</a></li>
-        <li><a href="/#jobs">Experiences</a></li>
-        <li><a href="/#projects">Projects</a></li>
-        <li><a href="/#education">Education</a></li>
+        <li><a href="/SohanAddagudi#education">Education</a></li>
+        <li><a href="/SohanAddagudi#jobs">Experiences</a></li>
+        <li><a href="/SohanAddagudi#projects">Projects</a></li>
+        <li><a href="/SohanAddagudi#education">Education</a></li>
       </NavbarContent>
     </NavbarContainer>
   );
